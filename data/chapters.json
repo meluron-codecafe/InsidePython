@@ -1,0 +1,39 @@
+[
+  {
+    "number": "01",
+    "title": "Data, Data Types and Data Structure Fundamentals",
+    "description": "Understanding the building blocks of programming.",
+    "topics": [
+      {
+        "number": "00",
+        "title": "Basic Introduction",
+        "description": "Understanding what each term mean, ...",
+        "file": "htmls/00.html"
+      },
+      {
+        "number": "01", 
+        "title": "Classification of Data Types",
+        "description": "Built-in Vs Custom, Primitive Vs Non-primitive, ...",
+        "file": "htmls/01.html"
+      },
+      {
+        "number": "02",
+        "title": "Getting to Know 'int' Datatype Better", 
+        "description": "Declaration, Memory Location, Memory Consumption, ...",
+        "file": "htmls/02.html"
+      },
+      {
+        "number": "03",
+        "title": "Getting to Know 'float' Datatype Better",
+        "description": "Declaration, Memory Location, Memory Consumption, ...",
+        "file": "htmls/03.html"
+      },
+      {
+        "number": "04",
+        "title": "Getting to Know 'str' Datatype Better",
+        "description": "Declaration, Memory Location, Memory Consumption, ...",
+        "file": "htmls/04.html"
+      }
+    ]
+  }
+]
